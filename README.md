@@ -1,3 +1,4 @@
+[English](README.md) | [中文](README.zh.md)
 # AI Drift: Structural Diagnosis
 
 Alignment drift in current large language models is not a training defect. It is a **structural inevitability of semi-emergent systems**.
