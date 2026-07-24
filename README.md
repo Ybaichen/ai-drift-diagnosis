@@ -80,4 +80,4 @@ Full proposal, derivation, and academic dialogues in the preprint.
 - Motor skills: [Paper 10](https://doi.org/10.5281/zenodo.21320422)
 - Sensory systems: [Paper 11](https://doi.org/10.5281/zenodo.21467691)
 
-**Author:** YI Baichen | ORCID: [0009-0008-6242-7743](https://orcid.org/0009-0008-6242-7743) | ybcbenxin@163.com
+**Author:** Yi Baichen | ORCID: [0009-0008-6242-7743](https://orcid.org/0009-0008-6242-7743) | ybcbenxin@163.com
